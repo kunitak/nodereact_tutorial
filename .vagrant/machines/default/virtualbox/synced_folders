@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/src":{"create":true,"owner":"vagrant","group":"vagrant","guestpath":"/home/vagrant/src","hostpath":"/Users/kunita/unisrv_dev/tutorial/src","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/kunita/unisrv_dev/tutorial","disabled":false}}}
